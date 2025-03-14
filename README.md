@@ -1,8 +1,6 @@
 # ClearSAI - Moderación Ética de Contenidos con IA
 
-🛡️ API desarrollada por **Hermes Lavallén**  
-📞 Contacto: +54 9 341 594-4886  
-📧 Email: lavallenster@gmail.com  
+
 
 ## 🎯 ¿Qué es ClearSAI?
 
@@ -38,6 +36,8 @@
 - Proyectos educativos y gubernamentales.
 
 ---
+<p>🛡️ API desarrollada por <strong>Hermes Lavallén</strong><br>
+📞 Contacto: +54 9 341 594-4886<br>
+📧 Email: <a href="mailto:lavallenster@gmail.com">lavallenster@gmail.com</a></p>
 
-**Repositorio creado y mantenido por Hermes Lavallén**  
 ⭐ ¡Gracias por tu interés! Si te gusta, no olvides dejar una estrella ⭐
