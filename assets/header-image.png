@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ClearSAI - Moderación Ética de Contenidos con IA</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    header {
+      background-color: #000;
+      color: #fff;
+      padding: 0;
+      text-align: center;
+    }
+    header img {
+      width: 100%;
+      max-height: 300px;
+      object-fit: cover;
+    }
+    main {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+      background: #fff;
+    }
+    h1, h2 {
+      color: #333;
+    }
+    .pricing {
+      border: 1px solid #ccc;
+      padding: 1rem;
+      margin-top: 2rem;
+      background: #f9f9f9;
+    }
+    .footer {
+      text-align: center;
+      margin-top: 3rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://hermes00.github.io/ClearSAI-API/assets/header-image.png" alt="Encabezado ClearSAI">
+  </header>
+
+  <main>
+    <h1>ClearSAI - Moderación Ética de Contenidos con IA</h1>
+
+    <h2>🎯 ¿Qué es ClearSAI?</h2>
+    <p>
+      ClearSAI es una API pensada para detectar, moderar y disuadir el uso de inteligencia artificial para la creación y difusión de contenidos pornográficos, deepfakes o materiales explícitos no consentidos.
+    </p>
+
+    <h2>🧠 ¿Qué hace?</h2>
+    <ul>
+      <li>🔍 Detección de contenido sensible mediante visión por computadora y NLP.</li>
+      <li>🛑 Disuasión con alertas éticas y educativas.</li>
+      <li>📊 Panel de reportes para análisis.</li>
+      <li>🧩 Integración como API en otras plataformas.</li>
+    </ul>
+
+    <h2>⚙️ Tecnologías utilizadas</h2>
+    <ul>
+      <li>Python (FastAPI)</li>
+      <li>OpenCV, YOLOv5</li>
+      <li>BERT / Transformers</li>
+      <li>AWS Rekognition, Google Vision</li>
+      <li>Docker (opcional)</li>
+    </ul>
+
+    <h2>💵 Planes</h2>
+    <div class="pricing">
+      <strong>Starter:</strong> $149 USD / ARS $160.000 (único)<br/>
+      Acceso completo a la versión actual. Sin límites de uso. Soporte básico.<br/><br/>
+
+      <strong>Pro:</strong> $25 USD / mes<br/>
+      Acceso a la API + Soporte priorizado + Nuevas versiones + Panel de control avanzado.
+    </div>
+
+    <h2>🛡️ API desarrollada por Hermes Lavallén</h2>
+    <p>
+      📞 Contacto: +54 9 341 594-4886<br/>
+      📧 Email: lavallenster@gmail.com
+    </p>
+
+    <p class="footer">⭐ ¡Gracias por tu interés! Si te gusta, no olvides dejar una estrella ⭐</p>
+  </main>
+</body>
+</html>
